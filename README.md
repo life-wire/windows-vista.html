@@ -1,6 +1,6 @@
 # Windows Vista
 
-[![Windows Vista](blue.png)](https://computersolve.com/windows-vista/)
+[![Windows Vista](blue.png)](https://icncomputer.com/windows-vista/)
 
 Windows Vista is Microsoft’s PC operating system that followed Windows XP and preceded Windows 7. It is known for its dramatically augmented visual display and stringent security advancements. Key features include the Windows Aero display (which is an acronym for “advanced, energetic, reflective and open”), instant search via Explorer windows, Windows Sidebar and advanced parental controls.
 
